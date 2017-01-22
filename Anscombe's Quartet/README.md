@@ -36,7 +36,7 @@ You can download the [`demo.twbx`](demo.twbx) file for the full Tableau Desktop 
 
 Using a similar approach as above, see if you can re-create the following simple statistics table:
 
-Pending
+<a href="img/stats.png"><img src="https://usf-cs360-2017.github.io/lectures/Anscombe%27s%20Quartet/img/stats.png" height="250"></a>
 
 You do not have to re-create the look and feel exactly (i.e. you do not have to modify the panel placement, titles, font, etc. to match the screenshot above exactly.
 
