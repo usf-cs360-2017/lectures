@@ -32,6 +32,14 @@ You can download the [`demo.twbx`](demo.twbx) file for the full Tableau Desktop 
 
 6. *Optional:* Under the "Measures" panel, drag "Measure Values" onto the "Color" box in the "Marks" panel. Click the "Color" box and then the "Edit Colors" button. In the dialog window that opens, select "Red-Blue Diverging" from the "Palette" dropdown box. Click the "Advanced" button and change the "Start" and "End" values to 0 and 20 respectively. Click the "Apply" and "OK" buttons.
 
+## Simple Statistics
+
+Using a similar approach as above, see if you can re-create the following simple statistics table:
+
+Pending
+
+You do not have to re-create the look and feel exactly (i.e. you do not have to modify the panel placement, titles, font, etc. to match the screenshot above exactly.
+
 ## Simple Scatterplot
 
 <a href="img/scatter.png"><img src="https://usf-cs360-2017.github.io/lectures/Anscombe%27s%20Quartet/img/scatter.png" height="250"></a>
