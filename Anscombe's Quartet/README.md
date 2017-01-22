@@ -1,13 +1,15 @@
 # Anscombe's Quartet
 
-<https://en.wikipedia.org/wiki/Anscombe%27s_quartet>
-<https://eagereyes.org/criticism/anscombes-quartet>
+For more information about this example, see:
 
-You can download the <demo.twbx> file for the full Tableau Desktop workbook demonstrated in class. However, I recommend you try to recreate the visualizations from scratch using the steps below.
+- <https://en.wikipedia.org/wiki/Anscombe%27s_quartet>
+- <https://eagereyes.org/criticism/anscombes-quartet>
+
+You can download the [`demo.twbx`](demo.twbx) file for the full Tableau Desktop workbook demonstrated in class. However, I recommend you try to recreate the visualizations from scratch using the steps below.
 
 ## Getting Started
 
-:octocat: [Download Data](https://usf-cs360-2017.github.io/lectures/anscombe/anscombe.csv)
+:octocat: [Download Data](data/anscombe.csv)
 
 1. Under the "Data" menu, select "Connect" » "To a File" » "Text File" and then open `anscombe.csv` from the dialog window.
 
