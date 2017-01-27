@@ -22,7 +22,7 @@ You can download the [`demo.twbx`](demo.twbx) file for the full Tableau Desktop 
 
 1. Under the "Dimensions" panel, drag "Group" and "Measure Names" to the "Columns" panel. Make sure "Group" appears *before* "Measure Names".
 
-2. Under the "Measures" panel, drag "#" to the "Rows" panel. Select the dropdown for "SUM(X)" and select "Dimension". Under the same dropdown, select "Discrete".
+2. Under the "Measures" panel, drag "#" to the "Rows" panel. Select the dropdown for "SUM(#)" and select "Dimension". Under the same dropdown, select "Discrete".
 
 3. Under the "Measures" panel, drag "Measure Values" to the "Text" box in the "Marks" panel.
 
