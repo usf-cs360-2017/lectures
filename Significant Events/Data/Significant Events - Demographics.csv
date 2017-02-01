@@ -1,0 +1,25 @@
+Survey,Group,Subgroup,Count,Total,Percent
+Pew,Generation,Millennials,554,2025,27
+Pew,Generation,Other,1471,2025,73
+Pew,Race/Ethnicity,Whites,1498,2025,74
+Pew,Race/Ethnicity,Blacks,180,2025,9
+Pew,Race/Ethnicity,Hispanics,211,2025,10
+Pew,Race/Ethnicity,Other,136,2025,7
+Pew,Gender,Female,1055,2025,52
+Pew,Gender,Male,970,2025,48
+Pew,Political Party,Republicans,909,2025,45
+Pew,Political Party,Democrats,1049,2025,52
+Pew,Political Party,Other,67,2025,3
+Pew,Political Party,Decline to State,0,2025,0
+Class,Generation,Millennials,30,32,94
+Class,Generation,Other,2,32,6
+Class,Race/Ethnicity,Whites,9,32,28
+Class,Race/Ethnicity,Blacks,0,32,0
+Class,Race/Ethnicity,Hispanics,3,32,9
+Class,Race/Ethnicity,Other,20,32,63
+Class,Gender,Female,10,32,31
+Class,Gender,Male,22,32,69
+Class,Political Party,Republicans,1,32,3
+Class,Political Party,Democrats,19,32,59
+Class,Political Party,Other,8,32,25
+Class,Political Party,Decline to State,4,32,13
